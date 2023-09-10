@@ -1,0 +1,13 @@
+ .navbar
+{
+  background-color: #2C3E50;
+  color: white;
+}
+.nav-link
+{
+  color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+}
+.navbar-brand
+{
+  color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+}
